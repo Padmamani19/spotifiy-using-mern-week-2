@@ -1,1 +1,1 @@
-# Spotify-Clone-using-MERN
+# Spotify using MERN week-2
